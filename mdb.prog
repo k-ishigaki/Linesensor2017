@@ -1,0 +1,6 @@
+Device PIC16F1825
+set voltagevalue 5.0
+set system.disableerrormsg false
+Hwtool PICkit3 -p
+Program "./bin/release.hex"
+Quit

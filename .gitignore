@@ -1,0 +1,6 @@
+*~
+*.swp
+*.swo
+bin/
+html/
+_exrc
