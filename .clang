@@ -1,1 +1,1 @@
--I./src/hardware -I./src/application
+flags = -I./src/hardware -I./src/application
